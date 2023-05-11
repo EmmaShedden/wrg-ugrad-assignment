@@ -23,7 +23,7 @@ A graph can be serialized as a list of edges -- the node set is then
 implicitly the union of all nodes mentioned in the edges. The file
 "wiki.graph" contains a representation of the first graph picture on
 
-http://en.wikipedia.org/wiki/Graph_(mathematics)
+https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)
 
 Each line has a node name on it; the file has some even number of lines. The
 first line is a source node, the second line is the destination node. Read 
