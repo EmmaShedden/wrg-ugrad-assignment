@@ -59,7 +59,7 @@ Micro Assignment #4. Mapping & Higher-Order Utility Functions
      let main () = begin
         (* unit tests for unique *) 
         let list1 = [1;2;3;1;2;1;7;1;2;] in
-        let list2 = unique lst1 in 
+        let list2 = unique list1 in 
         List.iter (fun x -> Printf.printf "%d\n" x) list2 ;
         let list3 = ["a";"b";"c";"a";"e";"b"] in 
         let list4 = unique list3 in 
