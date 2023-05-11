@@ -45,7 +45,7 @@ Micro Assignment #3. Mapping & Higher-Order Utility Functions
         (* currently this is just the identity function *) 
         (* put real code here XXX *) 
         result 
-      end
+      end in
 
       let main () = begin
         (* unit tests for randomize *) 
