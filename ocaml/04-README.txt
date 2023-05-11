@@ -51,7 +51,7 @@ Micro Assignment #4. Mapping & Higher-Order Utility Functions
      that does this:
 
      let unique lst = begin
-        let result = unique in 
+        let result = lst in 
         (* XXX FIXME *) 
         result 
      end
