@@ -54,7 +54,7 @@ Micro Assignment #6. Trees
             7                 3   12
 
   Write a (recursive?) function print_tree that takes a tree as an argument
-  and does a post-order traversal of the tree, printing out its values. 
+  and does an in-order traversal of the tree, printing out its values. 
   So print_tree         5            prints out 3 5 12 
                        / \
                       3   12
