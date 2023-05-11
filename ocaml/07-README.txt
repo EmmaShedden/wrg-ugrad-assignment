@@ -63,7 +63,7 @@ FIFO queue data structure for you. This snippet of code should illustrate it.
 
         let q = Queue.create () in
         ...
-        Queue.add q "node" ;
+        Queue.add "node" q ;
         ...
         while not (Queue.is_empty q) do
           let node = Queue.take q in
