@@ -55,7 +55,7 @@ Micro Assignment #3. Mapping & Higher-Order Utility Functions
         let list3 = ["a";"b";"c";"d";"e";"f"] in 
         let list4 = randomize list3 in 
         List.iter (fun x -> Printf.printf "%s\n" x) list4 ;
-      end ;;
+      end in
       main () ;;
 
     Your mission is to put real code near the XXX until this program 
